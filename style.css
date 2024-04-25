@@ -1,5 +1,6 @@
 p {
     color: black;
+    border: 4px solid #000;
 }
 body{
     background-color: greenyellow;
